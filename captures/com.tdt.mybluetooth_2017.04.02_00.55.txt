@@ -1,0 +1,27 @@
+TASK com.tdt.mybluetooth id=125
+  ACTIVITY com.tdt.mybluetooth/.MainActivity 421a5780 pid=8894
+    Local FragmentActivity 42264478 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@42264720
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@42264720
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{42265c98 V.E..... ... 0,0-480,854}
+        android.widget.LinearLayout{422663d0 V.E..... ... 0,0-480,854}
+          android.view.ViewStub{42266e78 G.E..... ... 0,0-0,0 #1020312}
+          android.widget.FrameLayout{422670d8 V.E..... ... 0,38-480,854}
+            android.support.v7.widget.ActionBarOverlayLayout{42267918 V.ED.... ... 0,0-480,816 #7f0b0046 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{42268058 V.ED.... ... 0,84-480,816 #1020002 android:id/content}
+                android.widget.LinearLayout{4226fe48 V.E..... ... 0,0-480,732}
+                  android.widget.LinearLayout{42270120 V.E..... ... 0,0-480,72}
+                    android.support.v7.widget.AppCompatButton{42270440 VFED..C. ... 0,0-132,72 #7f0b0057 app:id/btnOnOff}
+                    android.support.v7.widget.AppCompatButton{42271ea0 VFED..C. ... 132,0-326,72 #7f0b0058 app:id/btnDiscoverable}
+                    android.support.v7.widget.AppCompatButton{42272760 VFED..C. ... 326,0-467,72 #7f0b0059 app:id/btnDiscover}
+                  android.widget.ListView{42273160 V.ED.VC. ... 0,72-480,372 #7f0b005a app:id/lvNewDevice}
+              android.support.v7.widget.ActionBarContainer{42268510 V.ED.... ... 0,0-480,84 #7f0b0047 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{42268ad8 V.E..... ... 0,0-480,84 #7f0b0048 app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{4226d3c0 V.ED.... ... 24,21-195,62}
+                  android.support.v7.widget.ActionMenuView{4227a5f0 V.E..... ... 480,0-480,84}
+                android.support.v7.widget.ActionBarContextView{4226c5e8 G.E..... ... 0,0-0,0 #7f0b0049 app:id/action_context_bar}
